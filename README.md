@@ -1,4 +1,4 @@
-# Zeabur Doc Revamp
+# Zeabur Docs Revamp
 
 ## 核心觀點：文件有兩種讀者
 
