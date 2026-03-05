@@ -4,7 +4,7 @@
 
 Zeabur lets you get services online in minutes — no Docker, CI/CD, or any DevOps setup.
 
-Don't have an account yet? [Sign up here](https://zeabur.com); once verified, you're ready to go.
+Don't have an account yet? [Sign up here](https://zeabur.com); once verified, you can let the magic begin.
 
 ---
 

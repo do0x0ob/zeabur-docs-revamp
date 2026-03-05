@@ -4,7 +4,7 @@
 
 Zeabur 讓你幾分鐘內把服務部署上線，不需要碰 Docker、CI/CD 或任何 DevOps 設定。
 
-還沒有帳號？[前往註冊](https://zeabur.com)，驗證完就可以開始了。
+還沒有帳號？[前往註冊](https://zeabur.com)，驗證完就可以讓魔法開始了。
 
 ---
 
